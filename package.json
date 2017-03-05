@@ -1,0 +1,15 @@
+{
+  "name": "atom-smart-comments",
+  "main": "./lib/atom-smart-comments",
+  "version": "0.1.0",
+  "description": "Open links on comments with a single click",
+  "keywords": [
+  ],
+  "repository": "https://github.com/imagentleman/atom-smart-comments",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
